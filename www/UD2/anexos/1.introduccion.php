@@ -10,7 +10,7 @@
             <br />
             <h3>Tarea 1. Localizar errores.</h3> 
                 <?php
-                echo '¿Cómo estás? ';
+                echo '¿ Cómo estás ? ';
                 echo 'Estoy bien, gracias.';
                 ?>
             <br />

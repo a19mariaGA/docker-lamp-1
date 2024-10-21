@@ -19,7 +19,7 @@
             }
             ?>
             <?php
-            echo 'Opción B <br />';
+            echo ' Opción B  <br />';
             $pares = array();
             for ($i = 1; $i <= 10; $i++)
             {

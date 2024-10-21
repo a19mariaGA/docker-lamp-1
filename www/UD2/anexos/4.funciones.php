@@ -6,7 +6,7 @@
     </head>
     <body>
         <div class="container-fluid">
-            <h1>Anexo 4. Funciones</h1>
+            <h1> Anexo 4. Funciones </h1>
             <br />
             <h3>Tarea 1. Uso de funciones</h3> 
             
@@ -38,7 +38,7 @@
                 function parImpar($numero)
                 {
                     if ($numero % 2 == 0) {
-                        return "El número $numero es par.<br>";
+                        return "El número $numero  es  par.<br>";
                     } else {
                         return "El número $numero es impar.<br>";
                     }

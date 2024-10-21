@@ -9,7 +9,7 @@
             <h1>Anexo 3. Formularios</h1>
             <br />
             
-            <h3>Tarea 1. Uso de arrays</h3>
+            <h3> Tarea 1. Uso de arrays </h3>
 
             <?php
             if ($_SERVER['REQUEST_METHOD'] == 'GET')

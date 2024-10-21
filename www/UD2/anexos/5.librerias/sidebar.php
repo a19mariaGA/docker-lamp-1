@@ -1,4 +1,4 @@
-<div id="sidebar">
+<div id=" sidebar ">
     <h2>Paesent scelerisque</h2>
     <ul>
         <li><a href="#">DIV with ID sidebar</a></li>

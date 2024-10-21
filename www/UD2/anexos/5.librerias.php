@@ -29,7 +29,7 @@ function esDigito($caracter)
     if (ctype_digit($caracter) && intval($caracter) >= 0 && intval($caracter) <= 9) {
         echo "El carácter $caracter es un dígito entre 0 y 9.<br>";
     } else {
-        echo "El carácter $caracter no es un dígito entre 0 y 9.<br>";
+        echo "El carácter $caracter  no es un dígito entre 0 y 9.<br>";
     }
 }
 
@@ -64,7 +64,7 @@ function convertirMayusculas($string)
 
 function imprimirZonaHoraria()
 {
-    echo 'La zona horaria por defecto es: ' . date_default_timezone_get() . '<br>';
+    echo ' La  zona horaria por defecto es: ' . date_default_timezone_get() . '<br>';
 }
 
 function imprimirSalidaPuestaSol($latitud = 42.8782, $longitud = -8.5448)

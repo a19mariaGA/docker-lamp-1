@@ -9,7 +9,7 @@
             <h1>Anexo 3. Formularios</h1>
             <br />
             
-            <h3>Tarea 1. Uso de arrays</h3> 
+            <h3> Tarea 1. Uso de arrays </h3> 
             <p>Crea un formulario que solicite nombre y apellido. Cuando se reciben los datos, se debe mostrar la información.</p>
             
             <form method="GET" action="3.formularios1Nombre.php">

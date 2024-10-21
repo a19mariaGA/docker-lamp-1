@@ -14,7 +14,7 @@
                 <table class="table table-striped table-hover w-50">
                     <thead class="thead">
                         <tr>                            
-                            <th>Unidad</th>
+                            <th> Unidad</th>
                             <th>Boletín</th>
                             <th>Solución</th>
                         </tr>

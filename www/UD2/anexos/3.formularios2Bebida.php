@@ -6,7 +6,7 @@
     </head>
     <body>
         <div class="container-fluid">
-            <h1>Anexo 3. Formularios</h1>
+            <h1> Anexo 3. Formularios </h1>
             <br />
             
             <h3>Tarea 2. Envío de formularios</h3> 

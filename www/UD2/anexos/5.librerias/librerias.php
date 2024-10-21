@@ -27,9 +27,9 @@ require_once:
 function esDigito($caracter)
 {
     if (ctype_digit($caracter) && intval($caracter) >= 0 && intval($caracter) <= 9) {
-        echo "El carácter $caracter es un dígito entre 0 y 9.<br>";
+        echo " El carácter $caracter es un dígito entre 0 y 9.<br>";
     } else {
-        echo "El carácter $caracter no es un dígito entre 0 y 9.<br>";
+        echo " El carácter $caracter no es un dígito entre 0 y 9.<br>";
     }
 }
 
