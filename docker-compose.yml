@@ -3,7 +3,7 @@ services:
         image: mysql:9.0.1
         ports: 
             - "3306:3306"
-        #command: --default-authentication-plugin=mysql_native_password
+        #command: -- default-authentication-plugin=mysql_native_password
         environment:
             MYSQL_DATABASE: colegio
             MYSQL_USER: colegio
